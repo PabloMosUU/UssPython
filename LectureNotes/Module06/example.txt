@@ -1,0 +1,6 @@
+engo un ejemplo que queria usar para hacer una pregunta de Wooclap cuando dieramos funciones, pero ahora veo que la das vos esa clase. Te paso el ejemplo, por si lo queres usar:
+
+f(x) = 2x; f(2) = ?; f(y) = ?
+
+
+La primera pregunta evalua si entienden lo que es poner un valor en lugar de una variable. La segunda pregunta evalua si entienden que el nombre de una variable dentro de una funcion es irrelevante.

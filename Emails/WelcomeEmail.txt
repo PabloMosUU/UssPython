@@ -1,0 +1,29 @@
+Dear students,
+
+You are receiving this email because you registered for one of these courses:
+
+2021-2022 3 Programmeren met Python (BETA-B1PYT)
+2021-2022 3 Programming with data (INFOB2PWD)
+2021-2022 3-GS Computational thinking (INFOMCTH)
+
+These courses are in practiced merged into one course, which we call Computational Thinking and Programming with Python, or CoTaPP, for short. Welcome!
+
+You will find a detailed Course Manual in the Course Information section. As you will see there, the lectures for this course will take place *online*, while the laboratory sessions will be mixed: some will be on campus, and some will be online. There are 5 laboratory groups (A-E); 4 of these (A-D) will be on-campus, while the 5th one will be online. Your assigned group for the laboratory will appear on Blackboard. We will send an email with further instructions once it is finalized. This means that you should *not* attend the laboratory session in the room assigned by Osiris, but rather in the room that corresponds to your laboratory.
+
+Note also that on Wednesdays you only have a 15-minute break between the lecture and the laboratory, which might make it difficult for some of you to arrive to the laboratory on time. For this reason, we will use the lecture hall assigned in Osiris for up to 75 students who want to attend the lecture remotely in the lecture hall. You will need to bring your own laptop and headphones, so that you can follow the lecture as if you were at home.
+
+The assignment of students to laboratory groups will be random. However, we will take into consideration if you have a reason to want to attend laboratories online. Please fill out this short survey, so we can know of your needs. The survey also asks you whether you plan to use the option of attending the lecture in the lecture hall.
+
+https://forms.office.com/r/MqMk6meBLr
+
+Please reply to the survey before Sunday, 6th February at midnight.
+
+We look forward to seeing you soon during the lectures, laboratories and Q&A sessions. Please do not hesitate to contact us if you have any questions. The people you should contact are:
+
+Questions about course administration and lectures: Pablo Mosteiro (p.mosteiro@uu.nl), Isaac Alpizar-Chacon (i.alpizarchacon@uu.nl)
+Questions about laboratories and Q&A sessions: Francisca Pessanha (m.f.pessanhademenesesribeirodosreis@uu.nl)
+
+Best,
+
+Pablo Mosteiro, on behalf of the teaching team
+
