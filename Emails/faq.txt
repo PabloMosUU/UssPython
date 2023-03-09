@@ -34,3 +34,10 @@ Please direct all seminar-related questions to Eduardo Calo, who is the seminar 
 TOPIC: ANY QUESTIONS RELATED TO BUGS IN QUARTERFALL
 
 Please direct Quarterfall questions to lea@quarterfall.com
+
+TOPIC: CAN I JOIN A PROJECT GROUP FROM PEOPLE FROM DIFFERENT SEMINAR GROUPS?
+
+(For bachelors)
+I will allow you to join a group with people from outside your own seminar, under two conditions:
+1. only students from BETA-B1PYT and INFOB2PWD allowed (no master students)
+2. you register the project group under the seminar group from which most students in your group come. For example, if you have 2 students from BETA-B1PYTg01, 1 student from BETA-B1PYTg02, and 1 student from INFOB2PWD, you register the group under BETA-B1PYTg01
