@@ -13,7 +13,7 @@ files), combined into **one .zip file**.
 Include a .txt or .pdf document with the following information:
 
 1. Group members: write the name of all the group members and the tasks done by each one. Include members who did not participate in the project and why (e.g., they dropped out of the course).  
-**INFOMCTH/Master students only**: indicate your study programme (opleiding).
+**INFOMCTH students only**: indicate your study programme (opleiding).
 2. Project status: write all the project requirements and describe for each requirement if it is completed or not. For example, you can use a numerical scale (0 to 100) or a categorical scale (not done, partially completed, completed, expectations exceeded).
 3. Running instructions: include the instructions or steps that are necessary to run the project with Python. This will help us grade your project, so please be very clear and specific. Include any library that is used and is not part of the Python Standard Library.
 
@@ -49,7 +49,7 @@ path automatically. There are many different ways to do achieve this, but here a
 2. A click on the “find best path” button leads the program to compute and display the best path for the current grid. It also updates the score displayed in the text label below the grid.
 3. A click on the “create new random field” button fills the grid with new, randomly generated numbers between 0 and 9. It also resets the score displayed in the text label below the grid, and it removes the previously displayed best path, if any.
 4. A click on “exit program” closes the program.
-5. INFOMCTH/Master students only: you must provide validation tests. See section below.
+5. INFOMCTH students only: you must provide validation tests. See section below.
 
 Feel free to be creative and add additional features. For example, allow the users to click on cells in the
 grid to change their color, that way marking them as part of the path that the users think is the best.
@@ -75,7 +75,7 @@ together on your code during a video call. Three out of several options to do th
 
 ## Validation tests
 
-This section applies to **INFOMCTH/Master students only**.
+This section applies to **INFOMCTH students only**.
 
 During software development, it is standard practice to develop [unit tests](https://en.wikipedia.org/wiki/Unit_testing). These are meant to test the functionality of specific parts of the code. They are written *before* implementing the code, and they are typically automated as part of the development process, which is beyond the scope of this course. However, it is good practice to think along these lines when developing code: what cases and scenarios do you need to check in order to make sure that your code works well?
 

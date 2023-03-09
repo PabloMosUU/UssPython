@@ -8,7 +8,7 @@ Project 1 needs to be submitted through Blackboard by **March 1, 2023, 13:00**. 
 Include a .txt or .pdf document with the following information:
 
 1. Group members: write the name of all the group members and the tasks done by each one. Include members who did not participate in the project and why (e.g., they dropped out of the course).  
-**INFOMCTH/Master students only**: indicate your study programme (opleiding).
+**INFOMCTH students only**: indicate your study programme (opleiding).
 2. Project status: write all the project requirements and describe for each requirement if it is completed or not. For example, you can use a numerical scale (0 to 100) or a categorical scale (not done, partially completed, completed, expectations exceeded).
 3. Running instructions: include the instructions or steps that are necessary to run the project with Python. This will help us grade your project, so please be very clear and specific.
 
@@ -26,7 +26,7 @@ Be creative, but make sure that your text adventure meets the following requirem
 3. When the player has completed all worlds successfully, the main program congratulates them and ends the game. <br>
 4. Each group member develops (at least) one world, implemented in a separate function. <br>
 5. Each world can be completed by the player, if necessary by starting the world again and trying another route. There is no ultimate “game over” state. <br>
-6. INFOMCTH/Master students: your world **must** be related to your study programme.
+6. INFOMCTH students: your world **must** be related to your study programme.
 
 ## Time distribution
 
