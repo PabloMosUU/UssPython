@@ -56,6 +56,7 @@ attention that the chosen methods are applicable to the kind of data you have.
 When you have chosen a dataset and collected analysis ideas, start sketching your computational
 narrative and fill the notebook with life.
 Make sure that your project meets the following requirements:
+
 1. The computational narrative is presented in one Jupyter Notebook.
 2. Longer pieces of code, especially when not directly meaningful for the narrative (for example details of the data pre-processing when loading the data from the CSV files), are stored in separate .py modules and imported to the notebook.
 3. The notebook has different sections, including introductory text with a description of the data set, data loading, the different analyses with explanations, a summary/conclusion, and possible references.
