@@ -1,3 +1,7 @@
 *.pdf
 *.ipynb_checkpoints*
 *~
+LectureNotes/data/textdump.txt
+LectureNotes/lib/build/*
+LectureNotes/lib/app/build/*
+LectureNotes/lib/app/dist/*
