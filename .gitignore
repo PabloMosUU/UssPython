@@ -2,3 +2,5 @@
 *.ipynb_checkpoints*
 *~
 lib/__pycache__
+data/interview-with-a-syrian-refugee-anonymized.csv
+data/interview-with-a-syrian-refugee-longest-word.csv
