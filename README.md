@@ -1,5 +1,5 @@
 # Programming with Python
-Course materials of days 2 and 3 of the course Programming with Python at the Utrecht Summer School.
+Course materials of the days of the course Programming with Python at the Utrecht Summer School that are or were ever taught by Pablo Mosteiro.
 
 ## License
 
