@@ -15,3 +15,6 @@ img/plot.png
 *.synctex.gz
 *.toc
 *.vrb
+.idea
+anaconda_projects
+.virtual_documents
