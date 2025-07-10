@@ -76,7 +76,7 @@ Teaching activities:
 * Think-Pair-Share about why we need visualization
 	* Say we had the McDonald’s menu; we want to visualize calories
 * Jupyter notebook
-* Think-Pair-Share about modifying the hist invocation
+* Think-Pair-Share about the modifying-the-hist-invocation challenge
 * Final discussion:
 	* One-minute paper
 	* Think-Pair-Share
